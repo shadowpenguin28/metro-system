@@ -1,0 +1,4 @@
+ticket_id;origin_id;destination_id;price;route_info;misc
+MET-TKT-20251030-215528-8222980a;S1;S3;20;Board Red Line at Central Station|Travel 2 stop(s) on Red Line to New York;
+MET-TKT-20251030-215556-c5e17f10;S3;S2;15;Board Red Line at New York|Travel 1 stop(s) on Red Line to Grand Station;
+MET-TKT-20251030-220028-43ba2eda;S1;S5;25;Board Red Line at Delhi|Travel 1 stop(s) on Red Line to Gurgaon|Transfer to Yellow Line at Gurgaon|Travel 2 stop(s) on Yellow Line to Chirawa;

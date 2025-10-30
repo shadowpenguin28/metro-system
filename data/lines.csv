@@ -1,2 +1,4 @@
 line_id;name;colour;stations_in_order
 L1;Red Line;red;S1,S2,S3
+L2;Yellow Line;yellow;S2,S4,S5
+L3;Green Line;green;S4,S6,S7

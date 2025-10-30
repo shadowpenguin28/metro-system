@@ -1,4 +1,8 @@
 station_id;station_name;line_ids
-S1;Central Station;L1
-S2;Grand Station;L1
-S3;New York;L1
+S1;Delhi;L1
+S2;Gurgaon;L1,L2
+S3;Faridabad;L1
+S4;Loharu;L2,L3
+S5;Chirawa;L2
+S6;Kanpur;L3
+S7;Allahabad;L3
